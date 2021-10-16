@@ -1,5 +1,9 @@
 Welcome to so_long project by swilmer!
 
+This project was built for study in School 21 and it uses Minilibx library by Olivier Crouzet
+
+To compile the game use "make bonus"
+
 Map requirements:
 
 .ber extension
