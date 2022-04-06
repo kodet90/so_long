@@ -1,11 +1,18 @@
-# Welcome to so_long project by swilmer!
+# so_long
 
 ![](https://img.shields.io/badge/Language-C-blue)
 ![](https://img.shields.io/badge/School-42-black)
 
+A game where you are in control of Mr Capybara that has to eat all the Cabbages and then escape the level.
+
 This project was built for study and it uses Minilibx library by Olivier Crouzet
 
-To compile the game use "make bonus"
+## Compile
+
+To compile the game with all features use
+```
+make bonus
+```
 
 ## Map requirements:
 
@@ -33,9 +40,5 @@ To compile the game use "make bonus"
 | *1-4*           | Change window size  |
 | *ESC*           | Quit the game       |
 
-The goal of this game is to make Mr Capybara
-eat all the Cabbage and then escape the level.
-
-P.S. You should not eat everything out there...
 
 
