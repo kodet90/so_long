@@ -7,12 +7,28 @@ A game where you are in control of Mr Capybara that has to eat all the Cabbages 
 
 This project was built for study and it uses Minilibx library by Olivier Crouzet
 
+![so_long](so_long.png)
+
 ## Compile
 
-To compile the game with all features use
+To compile the game with all features use:
 ```
 make bonus
 ```
+
+## Run
+
+To run the game:
+```
+./so_long [path to map]
+```
+Multiple maps can be passed as an argument, for example:
+```
+./so_long maps/*.ber
+```
+Then maps can be changed using TAB or ENTER
+
+If game was compiled using make bonus it will run automatically. maps_bonus folder contains maps with enemies and a game will fail on run using these maps if it was compiled without bonus rule.
 
 ## Map requirements:
 
