@@ -30,7 +30,7 @@ Then maps can be changed using TAB or ENTER
 
 If game was compiled using make bonus it will run automatically. maps_bonus folder contains maps with enemies and a game will fail on run using these maps if it was compiled without bonus rule.
 
-## Map requirements:
+## Map requirements
 
 * `.ber` extension
 * Be rectangular, surrounded by wall `1`
@@ -40,13 +40,13 @@ If game was compiled using make bonus it will run automatically. maps_bonus fold
 * Optionally Mushroom `S`
 * Optionally Empty `0`
 
-## Example:
+## Valid map example
 ```
 1111111
 1SP0CE1
 1111111
 ```
-## Controls:
+## Controls
 
 | Key             | Control             |
 |:---------------:|:-------------------:|
